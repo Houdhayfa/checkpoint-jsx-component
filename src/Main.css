@@ -1,0 +1,15 @@
+.Main {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  width: auto;
+  height: 1000px;
+  text-align: center;
+  background-image: linear-gradient(to top, #180f14, #311928, #4b213f, #652a59, #7f3376, #903688, #a0399c, #b03cb0, #bb37bb, #c72fc7, #d225d2, #de13de);
+}
+
+.cadre{
+  border: solid #620462 10px;
+  background-color: #FFB0FF;
+}

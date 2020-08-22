@@ -1,0 +1,14 @@
+@font-face {
+    font-family: mag;
+    src: url("./Sabotase.ttf");
+}
+.fullname{
+    padding: 10px;
+}
+.fullname>h1 {
+    font-family: mag;
+    font-size: 100px;
+    background: -webkit-linear-gradient(#eee, #440744);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
